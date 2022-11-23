@@ -1,0 +1,77 @@
+{
+    "platos": [
+        {
+            "id": 1,
+            "nombre": "Pizza Chica a la Leña",
+            "precio": 30,
+            "categoria": 1
+        },
+        {
+            "id": 2,
+            "nombre": "Pizza Mediana a la Leña",
+            "precio": 50,
+            "categoria": 1
+        },
+        {
+            "id": 3,
+            "nombre": "Budín de Limón",
+            "precio": 30,
+            "categoria": 3
+          },
+          {
+            "id": 4,
+            "nombre": "Chocotorta",
+            "precio": 30,
+            "categoria": 3
+          },
+          {
+            "id": 5,
+            "nombre": "Jugo Exprimido de Naranja",
+            "precio": 15,
+            "categoria": 2
+          },
+          {
+            "id": 6,
+            "nombre": "Pizza Grande a la Leña",
+            "precio": 70,
+            "categoria": 1
+          },
+          {
+            "id": 7,
+            "nombre": "Rib Eye 800g",
+            "precio": 100,
+            "categoria": 1
+          },
+          {
+            "id": 8,
+            "nombre": "Limonada",
+            "precio": 15,
+            "categoria": 2
+          },
+          {
+            "id": 9,
+            "nombre": "Pinta",
+            "precio": 40,
+            "categoria": 2
+          },
+          {
+            "id": 10,
+            "nombre": "1/2 Pinta",
+            "precio": 30,
+            "categoria": 2
+          },
+          {
+            "id": 11,
+            "nombre": "Café",
+            "precio": 20,
+            "categoria": 2
+          },
+          {
+            "id": 12,
+            "nombre": "Capuchino",
+            "precio": 40,
+            "categoria": 2
+          }
+    ]
+    
+}
